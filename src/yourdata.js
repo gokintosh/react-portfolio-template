@@ -17,21 +17,21 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "Gokul",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
+    "I turn ",
     //Line 2 For Header
-    "products, brands,",
+    "☕ into",
     //Line 3 For Header
-    "and experience",
+    "<code/>",
   ],
   //   Header Paragraph
   headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    "",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "gokul.kannambally_balachandran@student.po.edu.pl",
 
   // End Header Details -----------------------
 
