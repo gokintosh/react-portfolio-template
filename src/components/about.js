@@ -16,7 +16,7 @@ const About = () => {
                 href={data.aboutParaOne}
                 target="_blank"
                 // rel="noopener noreferrer"
-                style={{"text-decoration":"none"}}
+                style={{"decoration":"none"}}
               ><h3>Download Resume 📃</h3>
               </a>
             </Fade>
