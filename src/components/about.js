@@ -3,6 +3,8 @@ import Fade from "react-reveal/Fade"
 import data from "../yourdata"
 
 const About = () => {
+
+
   return (
     <div className="secion" id="about">
       <div className="container">
@@ -22,7 +24,7 @@ const About = () => {
             </p>
           </div>
           <div className="image-wrapper">
-            <img src={data.aboutImage} alt="about"></img>
+            <img src="https://i.ibb.co/WBmBbbr/gokul.jpg" style={{"height" : "100%", "width" : "50%","borderRadius":"20px"}}  alt="gokul" border="0"></img>
           </div>
         </div>
       </div>
