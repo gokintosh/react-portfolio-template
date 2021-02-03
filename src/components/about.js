@@ -14,7 +14,13 @@ const About = () => {
               <h1>About Me</h1>
             </Fade>
             <p>
-              {data.aboutParaOne}
+            <a
+                href={data.aboutParaOne}
+                target="_blank"
+                rel="noopener noreferrer"
+              >download cv
+                </a>
+              
               <br></br>
               <br></br>
               {data.aboutParaTwo}

@@ -11,9 +11,6 @@ const Footer = () => {
             <h1>Contact</h1>
             <h2>{data.contactSubHeading}</h2>
           </Fade>
-          <a className="email-link" href={`mailto:${data.contactEmail}`}>
-            {data.contactEmail}
-          </a>
           <div className="social-icons">
             {data.social.map(socialLink => (
               <a
@@ -27,7 +24,7 @@ const Footer = () => {
           </div>
           <span>
             Made With <icon>❤</icon> by{" "}
-            <a href="https://www.gokulnair.com/">Gokul Nair</a>
+            <a href="https://www.gokulnair.xyz/">Gokul Nair</a>
           </span>
         </div>
       </div>

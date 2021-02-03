@@ -120,11 +120,11 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Yes I am a developer, but dont ask me to repair your computer. 'i can't !!!'",
+    "https://pdfhost.io/v/rQ80w7P2J_GOKUL_KANNAMBALLY_BALACHANDRANpdf.pdf",
   aboutParaTwo:
-    "Made in India , Exported to Poland. ",
+    "Made in 🇮🇳 🍛, Exported to 🇵🇱 🥟",
   aboutParaThree:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "I study Informatics(Computer Engineering) at Opole University Of Technology. I love datastructures and algorithms.",
   aboutImage:
     "https://ibb.co/VMfM77F",
 
@@ -188,18 +188,14 @@ export default {
   contactSubHeading: "Let's create your next experience together",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/chetanverma16" },
+    { img: githubIcon, url: "https://github.com/gokintosh" },
     {
-      img: codepenIcon,
-      url: "https://www.codepen.com/",
+      img:"https://img.icons8.com/cute-clipart/64/000000/linkedin.png",url: "https://www.linkedin.com/in/gokulkannamballybalachandran/" 
     },
-    {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
-    },
+   
     {
       img: instagramIcon,
-      url: "https://www.instagram.com/",
+      url: "https://www.instagram.com/gokulnair.xyz/",
     },
   ],
 
