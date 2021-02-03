@@ -39,70 +39,49 @@ export default {
   projects: [
     {
       id: 1, //DO NOT CHANGE THIS (Please)😅
-      title: "Project One", //Project Title - Add Your Project Title Here
+      title: "recipe-app", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Android recipe app created using java android SDK and firebase", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "",
+        "https://directus.improvein.com/improvein/storage/uploads/00000000001.png",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/gokintosh/recipe-app",
     },
     {
       id: 2, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Two", //Project Title - Add Your Project Title Here
+      title: "Notti App", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Nodejs notemaking app backend using express and mongodb", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "",
+        "https://miro.medium.com/max/600/1*NFTgwZ_TUmceZnSHCundBw.jpeg",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/gokintosh/notti-app-backend",
     },
     {
       id: 3, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Three", //Project Title - Add Your Project Title Here
+      title: "Journey", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Journalling app", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "",
+        "https://miro.medium.com/max/1250/1*l5GLNPRUp3uCorxeaAoTDg.jpeg",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/gokintosh/journey",
     },
     {
       id: 4, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Four", //Project Title - Add Your Project Title Here
+      title: "Expense Tracker", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Expense tracker spring boot backend using jwt authentication, Postgresql and clean code practices.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "",
+        "https://i.morioh.com/200716/2472b1cf.webp",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/gokintosh/expensetrackerapi",
     },
-    {
-      id: 5, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Five", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
-    {
-      id: 6, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Six", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
+    
 
     /*
     If You Want To Add More Project just Copy and Paste This At The End (Update the id Respectively)
@@ -124,7 +103,7 @@ export default {
   aboutParaTwo:
     "Made in 🇮🇳 🍛, Exported to 🇵🇱 🥟",
   aboutParaThree:
-    "I study Informatics(Computer Engineering) at Opole University Of Technology. I love datastructures and algorithms.",
+    "I study Informatics(Computer Engineering) at Opole University Of Technology. Love traveling✈️ and adventure sports 🥊. In search of great team to work with.",
   aboutImage:
     "https://ibb.co/VMfM77F",
 
@@ -139,37 +118,37 @@ export default {
       id: 1,
       img: "https://img.icons8.com/color/48/000000/spring-logo.png",
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "I love working with spring boot. I have 1 year plus experience developing spring boot backend applications. I love the dependancy injection principle and security of spring boot applications.",
     },
     {
       id: 2,
       img: "https://img.icons8.com/ios-filled/50/000000/mysql-logo.png",
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "I use MySql for my relational database. I did also worked with postgresql and mongodb for some projects.",
     },
     {
       id: 3,
       img: "https://img.icons8.com/color/48/000000/java-duke-logo.png",
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Two plus years working with java8 programming language.",
     },
     {
       id: 4,
       img: "https://img.icons8.com/bubbles/50/000000/react.png",
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Experience creating React.js apps using react router and redux.",
     },
     {
       id: 5,
       img: "https://img.icons8.com/color/48/000000/docker.png",
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "familiar with docker commands and creating docker images for projects.",
     },
     {
       id: 6,
       img: codeIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Love coding actively. Contributed to multiple opensource projects. Love leetcoding and attending hackathons.",
     },
   ],
 

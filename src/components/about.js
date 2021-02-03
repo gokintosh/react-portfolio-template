@@ -12,16 +12,16 @@ const About = () => {
           <div className="content">
             <Fade bottom cascade>
               <h1>About Me</h1>
-            </Fade>
-            <p>
-            <a
+              <a
                 href={data.aboutParaOne}
                 target="_blank"
-                rel="noopener noreferrer"
-              >download cv
-                </a>
-              
-              <br></br>
+                // rel="noopener noreferrer"
+                style={{"text-decoration":"none"}}
+              ><h3>Download Resume 📃</h3>
+              </a>
+            </Fade>
+            
+            <p>
               <br></br>
               {data.aboutParaTwo}
               <br></br>
