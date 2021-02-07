@@ -81,6 +81,28 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "https://github.com/gokintosh/expensetrackerapi",
     },
+    {
+      id: 4, //DO NOT CHANGE THIS (Please)😅
+      title: "shope-e online store", //Project Title - Add Your Project Title Here
+      para:
+        "online Shopping app using spring boot and react", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "",
+      //Project URL - Add Your Project Url Here
+      url: "https://github.com/gokintosh/shop-e-online-store",
+    },
+    {
+      id: 4, //DO NOT CHANGE THIS (Please)😅
+      title: "Pro-Fit excercise tracking app", //Project Title - Add Your Project Title Here
+      para:
+        "excercise tracking app using java spring boot back end and kotlin android fron end", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "",
+      //Project URL - Add Your Project Url Here
+      url: "https://github.com/gokintosh/pro-fit",
+    },
     
 
     /*
