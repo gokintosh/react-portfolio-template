@@ -121,7 +121,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "https://pdfhost.io/v/rQ80w7P2J_GOKUL_KANNAMBALLY_BALACHANDRANpdf.pdf",
+    "https://drive.google.com/file/d/1tUIb5LoWUpHhEb8Fjfw837bdgknrXlaL/view?usp=sharing",
   aboutParaTwo:
     "Made in 🇮🇳 🍛, Exported to 🇵🇱 🥟",
   aboutParaThree:
