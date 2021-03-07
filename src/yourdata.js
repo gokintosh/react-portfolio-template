@@ -28,7 +28,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "Hi, I am Gokul and I love code, coffee and cars...",
+    "Hi there, I am Gokul. A bachelors IT student from Poland ",
 
   //Contact Email
   contactEmail: "gokul.kannambally_balachandran@student.po.edu.pl",
